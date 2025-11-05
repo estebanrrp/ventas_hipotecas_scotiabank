@@ -5,6 +5,7 @@ Este repositorio documenta el análisis de inteligencia de mercado realizado par
 Se incluyen dos pdf para la presentación de resultados:
 
 -One-Pager con la presentación de los resultados
+
 -Reporte general del trabajo con el código generado (con comentarios) y los resultados obtenidos
 
 ---
