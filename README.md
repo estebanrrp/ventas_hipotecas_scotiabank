@@ -80,10 +80,7 @@ Este análisis puede ser utilizado por equipos de estrategia, producto y marketi
 ## 📁 Estructura del Repositorio
 
 ```bash
-├── data/
-│   └── Hipotecarios_Marginales_febrero2024.csv
 ├── notebooks/
-│   └── Market_Intelligence_Assessment_Scotiabank.ipynb
-├── output/
+│   └── Market_Intelligence_Assessment_Scotiabank.pdf
 │   └── Market_Intelligence_Assessment_Scotiabank_OnePager.pdf
 ├── README.md
