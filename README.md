@@ -25,7 +25,7 @@ Procesar una base de datos mensual con datos de hipotecas otorgadas por bancos e
 
 ## 🛠️ Herramientas Utilizadas
 
-- **Python**: análisis de datos con `pandas`, visualización con `matplotlib`, manipulación con `numpy`, entre otros
+- **Python**: análisis de datos con `pandas`, visualización con `matplotlib`, manipulación con `numpy`, entre otras bibliotecas
 - **Jupyter Notebook**: desarrollo interactivo y documentación técnica
 - **PowerPoint (One-Pager)**: presentación ejecutiva de resultados
 ---
