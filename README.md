@@ -2,6 +2,8 @@
 
 Este repositorio documenta el análisis de inteligencia de mercado realizado para **Scotiabank**, enfocado en la originación de hipotecas en México. El objetivo fue identificar insights estratégicos, evaluar la participación de mercado y detectar oportunidades de expansión geográfica y segmentación de clientes.
 
+Se incluye un One-Pager con la presentación de los resultados, así como un reporte con el desglose del código generado y los resultados obtenidos
+
 ---
 
 ## 📊 Objetivo del Proyecto
